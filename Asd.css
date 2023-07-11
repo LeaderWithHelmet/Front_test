@@ -1,0 +1,63 @@
+#all{
+    background-color: cornsilk;
+}
+#n1{
+    color: olive;
+    background-color: blanchedalmond;
+    font: normal 800 50px font-family;
+    width: 287px;
+}
+#n2{
+    color: slategray;
+}
+.n3{
+    background-color: gray;
+    text-indent: 30px;
+    width: 210px;
+    font: normal 0 20px font-family;
+    color: gainsboro;
+    line-height: 2;
+    text-decoration: none;
+    display: block;
+}
+.n3:hover{
+    background-color: orange;
+}
+.b3{
+    
+    margin-top: 20px;
+    padding: 20px;
+    border-color: gray;
+    border-width: 5px;
+    border-style: dashed;
+    border-radius: 40px;
+}
+#b3-p1{
+    font: normal 600 35px font-family;
+    text-align: center;
+    line-height:1px;
+}
+#b3-p1:hover{
+    color: rgb(155,155,155);
+}
+#b3-p2{
+    color: rgb(90,90,90);
+    font: normal 350 20px font-family;
+    line-height: 30px;
+}
+#b3-b1{
+    font: normal 200 20px font-family;
+    border-color: rgb(160,160,160);
+    border-radius: 10px;
+}
+#b3-b2{
+    font: normal 200 20px font-family;
+    border-color: rgb(160,160,160);
+    border-radius: 10px;
+}
+.b4{
+    font: normal 200 20px font-family;
+    float: left;
+}
+
+
